@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nasiphi Ntontela 👩🏾‍💻
 
-<!--
-**Missy-Ntontela/Missy-Ntontela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Student  
+📍 University of the Witwatersrand  
+🌙 Late-night builder | Backend-focused  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about building practical applications that solve real problems.  
+Currently working on strengthening my backend, database,web development and mobile development skills.
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- C++
+- SQL
+- HTML & CSS
+- Git & GitHub
+- Java Script
+- Android Development
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://missy-ntontela.github.io/Portfolio.2.0/
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nasiphi-ntontela-914393282/
+- GitHub: https://github.com/missy-ntontela
